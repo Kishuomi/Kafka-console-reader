@@ -1,0 +1,8 @@
+*.iml
+*.log
+.idea/
+.gradle/
+target/
+/log/
+/logs/
+build/
